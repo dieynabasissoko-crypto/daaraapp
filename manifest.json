@@ -1,0 +1,27 @@
+{
+  "name": "Daara — Coran & Alphabet Arabe",
+  "short_name": "Daara",
+  "description": "Application d'apprentissage du Coran et de l'alphabet arabe pour enfants",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fdf7ef",
+  "theme_color": "#1b3a2a",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "kids"],
+  "screenshots": []
+}
